@@ -1,0 +1,47 @@
+table{
+    width: 300px;
+    height: 400px;
+    padding: 80px;
+    margin: 20px;
+    text-align: center;
+}
+
+input{
+    width: 60px;
+    height: 30px;
+    background-color: rgb(202, 197, 197);
+}
+
+input:hover{
+    background-color: grey;
+}
+
+.display{
+    background-color: rgb(43, 41, 41);
+    text-align: right;
+    width: 245px;
+    height: 25px;
+    color: aliceblue;
+}
+
+.display:hover{
+    background-color:  rgb(43, 41, 41);
+}
+
+.operator{
+    background-color: orange;
+    font-size: 20px;
+}
+.operator:hover{
+    background-color: rgb(193, 130, 11);
+}
+.equal{
+    background-color: orange;
+    width: 125px;
+}
+.equal:hover{
+    background-color: rgb(193, 130, 11);
+}
+.AC{
+    width: 125px;
+}
